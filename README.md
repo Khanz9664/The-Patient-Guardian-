@@ -30,9 +30,9 @@ The Patient Guardian/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
-
+   git clone [<repository_url>](https://github.com/Khanz9664/The-Patient-Guardian-.git)
+   cd The-Patient-Guardian
+   ```
 2. **Install dependencies**:
   Make sure you have the necessary Python libraries installed:
   ```bash
