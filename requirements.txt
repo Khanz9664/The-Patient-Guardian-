@@ -1,0 +1,26 @@
+# Core libraries
+streamlit==1.29.0
+google-api-core>=2.11.0
+google-generativeai>=0.3.0
+
+# Standard dependencies for AI and HTTP requests
+requests>=2.31.0
+
+# Data handling
+pandas>=2.1.0
+numpy>=1.26.0
+
+# JSON & utilities (already in standard lib, optional)
+protobuf>=4.24.0
+
+# For typing hints (optional if using Python >=3.9)
+typing-extensions>=4.7.1
+
+# Optional: for date handling
+python-dateutil>=2.9.0
+
+# Regex and utilities (built-in, no need to install)
+# re module is part of stdlib
+
+# Optional for caching patient files or more robust filesystem operations
+pathlib>=1.0.1
