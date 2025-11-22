@@ -43,7 +43,7 @@ The Patient Guardian/
   In .streamlit/secrets.toml, add your Gemini API Key:
   [gemini]
   ```bash
-  api_key = "your_api_key_here"
+  GOOGLE_API_KEY = "your_api_key_here"
   ```
 
 4. **Run the application**:
