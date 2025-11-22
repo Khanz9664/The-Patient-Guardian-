@@ -2,7 +2,7 @@
 Patient Safety Guardian is an AI-powered clinical decision support system built as a capstone for Agents Intensive Competition. It helps clinicians reduce medical errors by analyzing prescriptions, detecting drug interactions, assessing risks, generating patient education, and enabling real-time safety checks through an agentic AI interface.
 
 # Folder Structure
-
+```bash
 The Patient Guardian/
 ├── patient_safety_guardian.py # Core Python file for managing patient data and safety protocols
 ├── app.py # Application entry point for running the app
@@ -12,6 +12,7 @@ The Patient Guardian/
 │ ├── patient_id1.json # Patient data file for patient with ID 1
 │ ├── patient_id2.json # Patient data file for patient with ID 2
 │ └── ... # Additional patient data files for each patient
+```
 
 ### Description of Files and Directories
 
