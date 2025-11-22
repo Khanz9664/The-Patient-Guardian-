@@ -37,19 +37,22 @@ The Patient Guardian/
   Make sure you have the necessary Python libraries installed:
   ```bash
   pip install -r requirements.txt
+  ```
 
 3. **Configure secrets**:
   In .streamlit/secrets.toml, add your Gemini API Key:
   [gemini]
   ```bash
   api_key = "your_api_key_here"
-
+  ```
 
 4. **Run the application**:
   To start the app, run:
   ```bash
   streamlit run app.py
+  ```
 
+---
 
 ### Note on Patient Data
 Patient data is stored in individual JSON files under the patients/ directory. Each file contains information specific to the patient, such as:
@@ -66,6 +69,8 @@ Clinical notes
 
 
 ```Ensure that sensitive patient information is handled according to the appropriate data protection and privacy standards.```
+
+---
 
 ### Key Sections:
 
