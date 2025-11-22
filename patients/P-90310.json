@@ -1,0 +1,14 @@
+{
+    "patient_id": "P-90310",
+    "name": "Shahid",
+    "age": 30,
+    "weight_kg": null,
+    "height_cm": null,
+    "medical_conditions": [],
+    "current_medications": [],
+    "allergies": [],
+    "recent_labs": {},
+    "vital_signs": {},
+    "clinical_notes": [],
+    "last_visit": "2025-11-22"
+}

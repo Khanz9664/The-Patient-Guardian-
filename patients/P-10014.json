@@ -1,0 +1,40 @@
+{
+    "patient_id": "P-10014",
+    "name": "Harper Young",
+    "age": 50,
+    "weight_kg": 72,
+    "height_cm": 170,
+    "medical_conditions": [
+        "Depression"
+    ],
+    "current_medications": [
+        {
+            "name": "Bupropion",
+            "dosage": "150mg",
+            "frequency": "Once daily",
+            "purpose": "Depression treatment",
+            "start_date": "2023-10-12"
+        }
+    ],
+    "allergies": [],
+    "recent_labs": {
+        "date": "2024-09-22",
+        "CBC": "Normal"
+    },
+    "vital_signs": {
+        "blood_pressure": "118/74",
+        "heart_rate": 69,
+        "temperature": 36.7
+    },
+    "clinical_notes": [
+        {
+            "date": "2024-09-22",
+            "note": "Mood improved. No side effects reported."
+        },
+        {
+            "date": "2025-11-22 10:48",
+            "note": "Paracetamol approved for use. No drug interactions with Bupropion identified. Patient counseled on the risk of hepatotoxicity, the maximum daily dose of 3,000mg, and the importance of checking other OTC medications for paracetamol content. Also advised to limit alcohol use."
+        }
+    ],
+    "last_visit": "2024-09-22"
+}

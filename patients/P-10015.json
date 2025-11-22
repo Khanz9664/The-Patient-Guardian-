@@ -1,0 +1,36 @@
+{
+    "patient_id": "P-10015",
+    "name": "Henry Adams",
+    "age": 46,
+    "weight_kg": 88,
+    "height_cm": 176,
+    "medical_conditions": [
+        "Psoriasis"
+    ],
+    "current_medications": [
+        {
+            "name": "Adalimumab",
+            "dosage": "40mg",
+            "frequency": "Bi-weekly",
+            "purpose": "Psoriasis control",
+            "start_date": "2022-12-01"
+        }
+    ],
+    "allergies": [],
+    "recent_labs": {
+        "date": "2024-10-18",
+        "CRP": 3.0
+    },
+    "vital_signs": {
+        "blood_pressure": "130/82",
+        "heart_rate": 71,
+        "temperature": 36.6
+    },
+    "clinical_notes": [
+        {
+            "date": "2024-10-18",
+            "note": "Skin plaques improving. Continue injections."
+        }
+    ],
+    "last_visit": "2024-10-18"
+}

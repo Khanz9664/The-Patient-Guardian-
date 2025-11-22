@@ -1,0 +1,34 @@
+{
+    "patient_id": "s-19302",
+    "name": "Shahid Ul Islam",
+    "age": 30,
+    "weight_kg": 55.0,
+    "height_cm": 170.0,
+    "medical_conditions": [
+        "Hypertension",
+        "Diabities"
+    ],
+    "current_medications": [
+        {
+            "name": "Warfin",
+            "dosage": "",
+            "frequency": "",
+            "purpose": "",
+            "start_date": ""
+        }
+    ],
+    "allergies": [
+        {
+            "allergen": "Asprin",
+            "reaction": ""
+        }
+    ],
+    "recent_labs": {},
+    "vital_signs": {
+        "blood_pressure": "110/80",
+        "heart_rate": 70,
+        "temperature": 36.6
+    },
+    "clinical_notes": [],
+    "last_visit": "2025-11-22"
+}

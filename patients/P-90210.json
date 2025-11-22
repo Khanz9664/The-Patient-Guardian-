@@ -1,0 +1,63 @@
+{
+    "patient_id": "P-90210",
+    "name": "Robert Smith",
+    "age": 65,
+    "weight_kg": 82,
+    "height_cm": 175,
+    "medical_conditions": [
+        "Atrial Fibrillation",
+        "Hypertension",
+        "Type 2 Diabetes"
+    ],
+    "current_medications": [
+        {
+            "name": "Warfarin",
+            "dosage": "5mg",
+            "frequency": "Once daily",
+            "purpose": "Anticoagulation for AFib",
+            "start_date": "2023-06-15"
+        },
+        {
+            "name": "Lisinopril",
+            "dosage": "10mg",
+            "frequency": "Once daily",
+            "purpose": "Blood pressure control",
+            "start_date": "2022-03-20"
+        },
+        {
+            "name": "Metformin",
+            "dosage": "500mg",
+            "frequency": "Twice daily",
+            "purpose": "Blood sugar control",
+            "start_date": "2021-11-10"
+        }
+    ],
+    "allergies": [
+        {
+            "allergen": "Penicillin",
+            "reaction": "Rash and swelling"
+        }
+    ],
+    "recent_labs": {
+        "date": "2024-10-15",
+        "INR": 2.3,
+        "creatinine": 1.1,
+        "HbA1c": 6.8
+    },
+    "vital_signs": {
+        "blood_pressure": "138/82",
+        "heart_rate": 72,
+        "temperature": 36.8
+    },
+    "clinical_notes": [
+        {
+            "date": "2024-10-15",
+            "note": "Patient reports good medication compliance. No bleeding episodes. INR therapeutic."
+        },
+        {
+            "date": "2025-11-22 10:58",
+            "note": "Patient has a significant drug-drug interaction risk between Paracetamol and Warfarin, which can potentiate the anticoagulant effect and increase the risk of bleeding. Initiating Paracetamol requires a mandatory INR check within 3-5 days and close monitoring for any signs of bleeding. Counseled patient on risks."
+        }
+    ],
+    "last_visit": "2024-10-15"
+}
