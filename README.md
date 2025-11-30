@@ -239,7 +239,7 @@ https://the-patient-guardian-git-jahk4i2rnm93uwceqnk7qu.streamlit.app/
 ## 15. Video Demonstration
 
 A walkthrough video demonstrates practical safety interventions and system workflow.
-[[https://youtu.be/56WTaojxcEY](https://youtu.be/Ezf3l1uh9bo)](https://youtu.be/wXNs4Puv3A0)
+https://youtu.be/wXNs4Puv3A0
 
 ---
 
