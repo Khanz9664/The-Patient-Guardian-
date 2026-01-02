@@ -254,3 +254,5 @@ A walkthrough video demonstrates practical safety interventions and system workf
 ## 17. Conclusion
 
 The Patient Safety Guardian showcases how AI agents can operate responsibly in mission-critical domains. By blending deterministic verification with intelligent orchestration, the system provides scalable and explainable medical safety enhancement for real-world healthcare environments.
+
+---
